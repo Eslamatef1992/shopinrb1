@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.885d2526.chunk.css",
+    "main.js": "/static/js/main.22a6a6ca.chunk.js",
+    "main.js.map": "/static/js/main.22a6a6ca.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1d305358.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1d305358.js.map",
+    "static/css/2.ed42999c.chunk.css": "/static/css/2.ed42999c.chunk.css",
+    "static/js/2.8105fdd6.chunk.js": "/static/js/2.8105fdd6.chunk.js",
+    "static/js/2.8105fdd6.chunk.js.map": "/static/js/2.8105fdd6.chunk.js.map",
+    "static/js/3.a5c71e79.chunk.js": "/static/js/3.a5c71e79.chunk.js",
+    "static/js/3.a5c71e79.chunk.js.map": "/static/js/3.a5c71e79.chunk.js.map",
+    "static/js/4.1a7476e9.chunk.js": "/static/js/4.1a7476e9.chunk.js",
+    "static/js/4.1a7476e9.chunk.js.map": "/static/js/4.1a7476e9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ed42999c.chunk.css.map": "/static/css/2.ed42999c.chunk.css.map",
+    "static/css/main.885d2526.chunk.css.map": "/static/css/main.885d2526.chunk.css.map",
+    "static/js/2.8105fdd6.chunk.js.LICENSE.txt": "/static/js/2.8105fdd6.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/la-solid-900.89363487.woff",
+    "static/media/kuwai-coin.cc43cb60.png": "/static/media/kuwai-coin.cc43cb60.png",
+    "static/media/no-data.57059066.png": "/static/media/no-data.57059066.png",
+    "static/media/upload-img.10bffb84.png": "/static/media/upload-img.10bffb84.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1d305358.js",
+    "static/css/2.ed42999c.chunk.css",
+    "static/js/2.8105fdd6.chunk.js",
+    "static/css/main.885d2526.chunk.css",
+    "static/js/main.22a6a6ca.chunk.js"
+  ]
+}
